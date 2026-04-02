@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/oliyy/pchome-cli/releases/download/v0.0.1/pchome-cli_0.0.1_windows_x86_64.zip",
+            "bin": [
+                "pchome-cli_0.0.1_windows_x86_64/pchome.exe"
+            ],
+            "hash": "619257b29480107282397c84dca4140c6a18fa84387758e6961427e680e37b99"
+        },
+        "arm64": {
+            "url": "https://github.com/oliyy/pchome-cli/releases/download/v0.0.1/pchome-cli_0.0.1_windows_arm64.zip",
+            "bin": [
+                "pchome-cli_0.0.1_windows_arm64/pchome.exe"
+            ],
+            "hash": "f0cbe02ef4fbedc746631878304b23a2e90445dd4d9bf78410dbf14d890e43b7"
+        }
+    },
+    "homepage": "https://github.com/oliyy/pchome-cli",
+    "license": "MIT",
+    "description": "PChome 24h CLI for search, compare, and recommendations"
+}
