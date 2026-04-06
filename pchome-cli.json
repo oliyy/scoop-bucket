@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oliyy/pchome-cli/releases/download/v0.0.1/pchome-cli_0.0.1_windows_x86_64.zip",
+            "url": "https://github.com/oliyy/pchome-cli/releases/download/v0.1.0/pchome-cli_0.1.0_windows_x86_64.zip",
             "bin": [
-                "pchome-cli_0.0.1_windows_x86_64/pchome.exe"
+                "pchome-cli_0.1.0_windows_x86_64/pchome.exe"
             ],
-            "hash": "619257b29480107282397c84dca4140c6a18fa84387758e6961427e680e37b99"
+            "hash": "7650c38dfdc36ffc0434282b7b288077e46581169023c63509e0e37adebabdee"
         },
         "arm64": {
-            "url": "https://github.com/oliyy/pchome-cli/releases/download/v0.0.1/pchome-cli_0.0.1_windows_arm64.zip",
+            "url": "https://github.com/oliyy/pchome-cli/releases/download/v0.1.0/pchome-cli_0.1.0_windows_arm64.zip",
             "bin": [
-                "pchome-cli_0.0.1_windows_arm64/pchome.exe"
+                "pchome-cli_0.1.0_windows_arm64/pchome.exe"
             ],
-            "hash": "f0cbe02ef4fbedc746631878304b23a2e90445dd4d9bf78410dbf14d890e43b7"
+            "hash": "bc5fb970fb918cb5cc06ca9c83f93b2192307002ca9650836f44933c2044919d"
         }
     },
     "homepage": "https://github.com/oliyy/pchome-cli",
